@@ -6,14 +6,14 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, distin
 
 ## Donde encontrarme
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, distinctio? ***VIVA EL NANO***.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, distinctio?.
 
 Mi email [ejemplo@gmail.com](mailto:ejemplo@gmail.com)
 
 ## Qué estoy aprendiendo
 
 ``` python
-aficiones = ["coña mala", "histoooooria"]
+aficiones = ["programar", "ciberseguridad"]
 print(aficiones)
 ```
 
@@ -21,13 +21,14 @@ Otras tecnologías que he aprendido han sido:
 
 * SQL
 * Java básico
-  1. Clases
-  1. Colecciones
-  1. Ficheros
+  * Clases
+  * Colecciones
+  * Ficheros
 * HTML Y CSS
 * Javascript
   * Arrays
-* Python  
+* Python
+  * Django  
 
 Y los módulos que me han gustado han sido:
 
@@ -40,6 +41,4 @@ Y los módulos que me han gustado han sido:
 Un comando que no hay que olvidar es `python manage.py runserver`.
 
 
-## El Nano campeonando
 
-![El Nano campeonando](nanopodio.jpeg)
