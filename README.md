@@ -20,8 +20,8 @@ Mi email [danielcabrerizosm@gmail.com](mailto:danielcabrerizosm@gmail.com)
   * Arrays
 * Python
   * Django  
-  * 
-Y los módulos que me han gustado han sido:
+  
+ Y los módulos que me han gustado han sido:
 
 | Sí   | No 
 | ---- | ---
