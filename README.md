@@ -2,22 +2,13 @@
 
 ## Quien soy
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, distinctio?
+Soy un estudiante de 2º de Desarrollo de Aplicaciones Web.
 
 ## Donde encontrarme
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, distinctio?.
 
 Mi email [ejemplo@gmail.com](mailto:ejemplo@gmail.com)
 
 ## Qué estoy aprendiendo
-
-``` python
-aficiones = ["programar", "ciberseguridad"]
-print(aficiones)
-```
-
-Otras tecnologías que he aprendido han sido:
 
 * SQL
 * Java básico
@@ -29,16 +20,15 @@ Otras tecnologías que he aprendido han sido:
   * Arrays
 * Python
   * Django  
-
+  * 
 Y los módulos que me han gustado han sido:
 
 | Sí   | No 
 | ---- | ---
-| BD   | Programación
-| Desarrollo en Servidor de interfaces  | Ejemplo
-| Cliente | Ejemplo
+| Desarrollo en Cliente y Servidor   | Empresas
+| Desarrollo en Servidor de interfaces  | Despliegues
 
-Un comando que no hay que olvidar es `python manage.py runserver`.
+
 
 
 
