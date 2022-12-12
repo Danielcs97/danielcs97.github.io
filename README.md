@@ -6,7 +6,7 @@ Soy un estudiante de 2º de Desarrollo de Aplicaciones Web.
 
 ## Donde encontrarme
 
-Mi email [ejemplo@gmail.com](mailto:ejemplo@gmail.com)
+Mi email [danielcabrerizosm@gmail.com](mailto:danielcabrerizosm@gmail.com)
 
 ## Qué estoy aprendiendo
 
